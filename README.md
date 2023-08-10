@@ -1,2 +1,4 @@
 # Engjin
-2D and 3D "micro" game engine.
+3D game engine and platform.
+
+Coded in C++ using raylib as the renderer for audio and visuals and other things.
